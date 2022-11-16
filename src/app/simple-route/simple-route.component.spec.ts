@@ -9,3 +9,10 @@ describe('Component: SimpleRoute', () => {
     expect(component).toBeTruthy();
   });
 });
+
+describe('Component: SimpleRoute', () => {
+  it('should create an instance', () => {
+    let component = new SimpleRouteComponent();
+    expect(component).toBeTruthy();
+  });
+});
