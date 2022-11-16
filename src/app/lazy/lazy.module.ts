@@ -10,4 +10,4 @@ import { LazyComponent } from './lazy.component';
   ],
   declarations: [LazyComponent]
 })
-export class LazyModule {
+export class LazyModule {}
