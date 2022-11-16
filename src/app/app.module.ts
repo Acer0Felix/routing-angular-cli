@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { AppRoutingModule } from './app-routing.module';
-
+import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
 import { SimpleRouteComponent } from './simple-route/simple-route.component';
 
